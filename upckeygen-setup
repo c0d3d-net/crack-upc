@@ -1,0 +1,8 @@
+#!/bin/bash
+sudo mv upckeygen.zip /home/pi/upckeygen.zip
+cd /homepi/
+sudo unzip upckeygen.zip
+sudo rm upckeygen.zip
+cd upckeygen
+./linux-setup1
+./linux-setup2
