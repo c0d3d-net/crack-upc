@@ -2,7 +2,7 @@
 sudo mv upckeygen.zip ~/
 cd ~/
 sudo unzip upckeygen.zip
-sudo rm -rf upckeygen.zip
+sudo rm upckeygen.zip
 cd upckeygen
 ./linux-setup1
 ./linux-setup2
