@@ -1,4 +1,6 @@
 #!/bin/bash
+sudo mv upckeygen.zip ~/
+cd ~/
 sudo unzip upckeygen.zip
 sudo rm -rf upckeygen.zip
 cd upckeygen
